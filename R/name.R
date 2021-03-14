@@ -1,7 +1,7 @@
 #' @title Meu Primeiro Pacote R
 #' @name name
 #'
-#' @description Uma funcaoo que cria uma mensagem personalizada
+#' @description Uma funcao que cria uma mensagem personalizada
 #'
 #' @param x Seu nome
 #'

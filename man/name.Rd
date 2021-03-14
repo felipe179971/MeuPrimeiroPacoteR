@@ -13,7 +13,7 @@ name(x)
 Seu nome em uma frase.
 }
 \description{
-Uma funcaoo que cria uma mensagem personalizada
+Uma funcao que cria uma mensagem personalizada
 }
 \details{
 Sempre importante lembrar que seu nome e do tipo character,
